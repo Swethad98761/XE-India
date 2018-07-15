@@ -1,0 +1,2 @@
+# XE-India.
+Observer pattern
